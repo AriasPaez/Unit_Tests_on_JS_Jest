@@ -1,0 +1,36 @@
+{
+  "name": "unit_tests_jest_js",
+  "version": "1.0.0",
+  "description": "Notes and practice of JavaScript with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriasPaez/Unit_Tests_on_JS_Jest.git"
+  },
+  "keywords": [
+    "jest",
+    "js",
+    "javascript",
+    "tests",
+    "unit",
+    "test"
+  ],
+  "author": "Cristian Arias <arias.sist07@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AriasPaez/Unit_Tests_on_JS_Jest/issues"
+  },
+  "homepage": "https://github.com/AriasPaez/Unit_Tests_on_JS_Jest#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  },
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "babel-jest": "^25.4.0"
+  }
+}
